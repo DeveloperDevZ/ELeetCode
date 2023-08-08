@@ -1,4 +1,4 @@
-public class Methods{
+public class ArraysMethods{
 
 	//****************************evenOdd****************************
  
@@ -131,7 +131,8 @@ public class Methods{
 	*/
 	
 	
-
+	//****************************Multiply****************************
+	
 }
 
 
